@@ -24,5 +24,10 @@ public class Main {
 		System.out.println("=====================");
 
 		colores.stream().forEach(System.out::println);
+		
+		System.out.println("=====================");
+
+		
+		System.out.println("Prueba para el cambio en el repositorio de git");
 	}
 }
